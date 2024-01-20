@@ -1,0 +1,3 @@
+# Categorical Encoding
+
+Como es bien sabido, la mayor parte de los algoritmos de machine learning funcionan de manera sobresaliente cuando las variables son numericas. Sin embargo, muchos de ellos presentan problemas a la hora de manejar variables cualitativas, situacion que obliga a los cientificos de datos a buscar alternativas para facilitar el manejo de estas variables. Teniendo en cuenta lo anterior, siguiente notebook busca explorar algunas de las diferentes alternativas para introducir variables categoricas y explorar sus resultados para diferentes algoritmos de machine learning.
