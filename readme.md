@@ -23,12 +23,13 @@ Sientete libre de contribuir, ya sea a partir de la correcion de un bug o simple
 
 Si quieres contribuir al proyecto, crea un fork del repositorio y solicita un pull request:
 
-1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. Push to the Branch (git push origin feature/AmazingFeature)
-5. Open a Pull Request
+1. Haz un fork del proyecto
+2. Crea tu propia rama (git checkout -b rama/AmazingFeature)
+3. Haz commit a tus cambios (git commit -m 'el cambio que realizas')
+4. Haz Push a la rama (git push origin rama/AmazingFeature)
+5. Crea un Pull Request
 
 ## Contacto
 **mail** - j220493@gmail.com
+
 **twitter** - @j_martelo
